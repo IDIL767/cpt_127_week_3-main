@@ -23,7 +23,7 @@ finished_program = False
 
 while finished_program == False:
 
-    i = 0
+    i = 1
 
     print(f'Testing i = {i}')
 
